@@ -375,7 +375,7 @@
             <Product><ProductName>Sts</ProductName><DomainName>sts.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Vpc</ProductName><DomainName>vpc.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Ace</ProductName><DomainName>ace.cn-hangzhou.aliyuncs.com</DomainName></Product>
-            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-hangzhou.aliyuncs.com</DomainName></Product>
+            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-shanghai.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Dds</ProductName><DomainName>mongodb.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CF</ProductName><DomainName>cf.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Acs</ProductName><DomainName>acs.aliyun-inc.com</DomainName></Product>
@@ -538,7 +538,7 @@
             <Product><ProductName>HighDDos</ProductName><DomainName>yd-highddos-cn-hangzhou.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CmsSiteMonitor</ProductName><DomainName>sitemonitor.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Rds</ProductName><DomainName>rds.aliyuncs.com</DomainName></Product>
-            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-hangzhou.aliyuncs.com</DomainName></Product>
+            <Product><ProductName>Mts</ProductName><DomainName>mts.us-west-1.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CF</ProductName><DomainName>cf.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Acs</ProductName><DomainName>acs.aliyun-inc.com</DomainName></Product>
             <Product><ProductName>Httpdns</ProductName><DomainName>httpdns-api.aliyuncs.com</DomainName></Product>
@@ -859,7 +859,7 @@
             <Product><ProductName>Sts</ProductName><DomainName>sts.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Vpc</ProductName><DomainName>vpc.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Rds</ProductName><DomainName>rds.aliyuncs.com</DomainName></Product>
-            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-hangzhou.aliyuncs.com</DomainName></Product>
+            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-shenzhen.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Oas</ProductName><DomainName>cn-shenzhen.oas.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CF</ProductName><DomainName>cf.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Acs</ProductName><DomainName>acs.aliyun-inc.com</DomainName></Product>
@@ -937,7 +937,7 @@
             <Product><ProductName>CloudAPI</ProductName><DomainName>apigateway.cn-qingdao.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Sts</ProductName><DomainName>sts.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Rds</ProductName><DomainName>rds.aliyuncs.com</DomainName></Product>
-            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-hangzhou.aliyuncs.com</DomainName></Product>
+            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-qingdao.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Location-inner</ProductName><DomainName>location-inner.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CF</ProductName><DomainName>cf.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Acs</ProductName><DomainName>acs.aliyun-inc.com</DomainName></Product>
@@ -1051,7 +1051,7 @@
             <Product><ProductName>HighDDos</ProductName><DomainName>yd-highddos-cn-hangzhou.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CmsSiteMonitor</ProductName><DomainName>sitemonitor.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Ace</ProductName><DomainName>ace.cn-hangzhou.aliyuncs.com</DomainName></Product>
-            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-hangzhou.aliyuncs.com</DomainName></Product>
+            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-beijing.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CF</ProductName><DomainName>cf.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Acs</ProductName><DomainName>acs.aliyun-inc.com</DomainName></Product>
             <Product><ProductName>Httpdns</ProductName><DomainName>httpdns-api.aliyuncs.com</DomainName></Product>
@@ -1308,7 +1308,7 @@
             <Product><ProductName>Sts</ProductName><DomainName>sts.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CmsSiteMonitor</ProductName><DomainName>sitemonitor.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Ace</ProductName><DomainName>ace.cn-hangzhou.aliyuncs.com</DomainName></Product>
-            <Product><ProductName>Mts</ProductName><DomainName>mts.cn-hangzhou.aliyuncs.com</DomainName></Product>
+            <Product><ProductName>Mts</ProductName><DomainName>mts.ap-southeast-1.aliyuncs.com</DomainName></Product>
             <Product><ProductName>CF</ProductName><DomainName>cf.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Crm</ProductName><DomainName>crm-cn-hangzhou.aliyuncs.com</DomainName></Product>
             <Product><ProductName>Location-inner</ProductName><DomainName>location-inner.aliyuncs.com</DomainName></Product>
